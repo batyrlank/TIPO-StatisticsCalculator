@@ -1,3 +1,3 @@
-Calculator for statistics
+Calculator for my school statistics
 
 
